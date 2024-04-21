@@ -1,2 +1,2 @@
 # Estore
-This is a static Website
+This is a static  Eccom Website
